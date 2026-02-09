@@ -1,3 +1,24 @@
+## dsa
+
+| steps | resource Link |
+| :--- | :--- |
+| **watch this playlist (its enough)** |  https://youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&si=l_6wmGByRpK2wM11 |
+
+
+## web development
+
+| steps | resource Link |
+| :--- | :--- |
+| **watch this one shot video (its enough to get you started)** | https://youtu.be/LzMnsfqjzkA?si=bwXRXn9R71TdL18w |
+| **Explore this channel** | https://www.youtube.com/@chaiaurcode |
+
+## Machine-Learning/Deep-Learning/data-science
+
+| steps | resource Link |
+| :--- | :--- |
+| **watch this playlist (its enough to get get you started)** |  https://youtube.com/playlist?list=PL9XvIvvVL50EKXNwINseqf8pCPnPrg5qh&si=74FlEn9pvB3rshNB |
+| **explore this channel** | https://www.youtube.com/@campusx-official |
+
 ## cyber security
 
 | Topic / Category | Resources & Links |
@@ -30,23 +51,3 @@
 | Manual Verification | https://medium.com/@case_lab/basics-of-manual-security-testing-in-software-testing-ea41b4a322f2, https://blog.joshsoftware.com/2024/09/05/a-guide-for-manual-vulnerability-testing/  |
 | Penetration Test Reporting | https://www.hackthebox.com/blog/penetration-testing-reports-template-and-guide, https://www.esecurityplanet.com/networks/pentest-report/, https://www.browserstack.com/guide/penetration-testing-report-guide |
 
-
-## web development
-
-| steps | resource Link |
-| :--- | :--- |
-| **watch this one shot video (its enough to get you started)** | https://youtu.be/LzMnsfqjzkA?si=bwXRXn9R71TdL18w |
-| **Explore this channel** | https://www.youtube.com/@chaiaurcode |
-
-## Machine-Learning/Deep-Learning/data-science
-
-| steps | resource Link |
-| :--- | :--- |
-| **watch this playlist (its enough to get get you started)** |  https://youtube.com/playlist?list=PL9XvIvvVL50EKXNwINseqf8pCPnPrg5qh&si=74FlEn9pvB3rshNB |
-| **explore this channel** | https://www.youtube.com/@campusx-official |
-
-## dsa
-
-| steps | resource Link |
-| :--- | :--- |
-| **watch this playlist (its enough)** |  https://youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&si=l_6wmGByRpK2wM11 |
