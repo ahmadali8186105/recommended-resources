@@ -40,6 +40,12 @@
 
 | steps | resource Link |
 | :--- | :--- |
-| **Watch this one shot video** | https://youtu.be/LzMnsfqjzkA?si=bwXRXn9R71TdL18w |
+| **this one shot video is enough to get you started** | https://youtu.be/LzMnsfqjzkA?si=bwXRXn9R71TdL18w |
 | **Explore this channel** | https://www.youtube.com/@chaiaurcode |
 
+## Machine-Learning/Deep-Learning/data-science
+
+| steps | resource Link |
+| :--- | :--- |
+| **this playlist is enough to get get you started** |  https://youtube.com/playlist?list=PL9XvIvvVL50EKXNwINseqf8pCPnPrg5qh&si=74FlEn9pvB3rshNB |
+| **explore this channel**| https://www.youtube.com/@campusx-official |
